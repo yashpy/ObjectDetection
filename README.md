@@ -1,4 +1,7 @@
 # ObjectDetection
+
+# Medium blog: https://medium.com/@yadnesh-deshpande1/object-detection-study-and-analysis-accuracy-speed-yolo-ssd-91ec4032661a
+
 “Detection and Retrieval of Object in an Image/Video Using YOLO & SSD
 and its Comparative Analysis &Study.”
 
